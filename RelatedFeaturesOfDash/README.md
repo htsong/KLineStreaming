@@ -49,8 +49,8 @@ Plotly还封装了[Plotly Express](https://plotly.com/python/plotly-express/)接
 + [JSON 与 Dict 相互转换](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/transform_json_dict.py)
 + [用Plotly创建图形对象fig](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/figure_create_with_plotly.py)
 + [用Dash创建图形对象的WEB应用](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/figure_create_with_dash.py)
-+ [Dash定时更新Plotly图表](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/streaming_with_dash.py)
-+ [Dash定时更新Plotly图表(隐藏DIV保存State)](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/streaming_with_dash_state.py)
++ [Dash定时更新Plotly图表（全局变量保存状态）](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/streaming_with_dash.py)
++ [Dash定时更新Plotly图表（隐藏DIV保存State）](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/streaming_with_dash_state.py)
 
 
 **绘制K线图和参数调整**
