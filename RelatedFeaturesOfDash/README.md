@@ -22,7 +22,7 @@ Dash 建立在 Plotly.js、React 和 Flask 之上，将现代 UI 元素（如下
 ---
 + 用Plotly创建和更新网页图表
 
-Plotly是用来在网页上创建和渲染图形的python包，渲染过程是通过Plotly.js库实现的。
+[Plotly](https://dash.plotly.com/dash-core-components/graph)是用来在网页上创建和渲染图形的python包，渲染过程是通过Plotly.js库实现的。
 
 Python用户可以通过Dict或[plotly.graph_objects.Figure](https://plotly.com/python-api-reference/plotly.graph_objects.html)类实现图形操纵，而不用直接与下层的JS库打交道。
 
