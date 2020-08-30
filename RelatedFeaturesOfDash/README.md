@@ -18,10 +18,23 @@ Dash 同时也是用于创建分析 Web 应用程序的用户界面库，希望�
 Dash 建立在 Plotly.js、React 和 Flask 之上，将现代 UI 元素（如下拉列表、滑块和图形）与你的分析 Python 代码相结合。
 
 
-** Demo程序清单 **
+**Demo程序清单**
 ---
 + 用Plotly创建和更新网页图表
+
+Plotly是用来在网页上创建和渲染图形的python包，渲染过程是通过Plotly.js库实现的。
+
+Python用户可以通过Dict或[plotly.graph_objects.Figure](https://plotly.com/python-api-reference/plotly.graph_objects.html)类实现图形操纵，而不用直接与下层的JS库打交道。
+
+Plotly的图形也可通过JSON序列化为文本和保存。
+
+Plotly还封装了[Plotly Express](https://plotly.com/python/plotly-express/)接口，提供了一组用于创建图形的简洁、一致的高级API。
 
 原始文档参见：[Creating and Updating Figures with Plotly's Python graphing library](https://plotly.com/python/creating-and-updating-figures/)
 + 绘制K线图和参数调整
 + Dash多页WEB应用
+
+
+**用Plotly创建和更新网页图表**
+---
+
