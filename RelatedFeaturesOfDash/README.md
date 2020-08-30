@@ -36,7 +36,6 @@ Plotly还封装了[Plotly Express](https://plotly.com/python/plotly-express/)接
 
 
 **用Plotly创建和更新网页图表**
----
 + [JSON 与 Dict 相互转换](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/transform_json_dict.py)
 + [用Plotly创建图形对象fig](https://github.com/htsong/KLineStreaming/blob/master/RelatedFeaturesOfDash/figure_create_with_plotly.py)
 + [Dash定时更新Plotly图表](https://github.com/htsong/KLineStreaming)
