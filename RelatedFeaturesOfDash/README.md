@@ -19,6 +19,14 @@ Dash 建立在 Plotly.js、React 和 Flask 之上，将现代 UI 元素（如下
 
 Dash 通过 Dash Core component 模块中 Graph 对象，形如：dcc.Graph(figure=fig)，将参数中 Plotly 库生成的 figure 对象，嵌入到 WEB 应用页面中并展示出来。
 
+[Dash安装](https://dash.plotly.com/installation)很简单：pip install dash==1.15.0, 本项目基于 dash-renderer==1.15.0 版本。
+
+在Python环境中，可使用下面的程序查看Dash版本：
+···
+>>> import dash_core_components
+>>> print(dash_core_components.__version__)
+···
+
 
 **Demo程序清单**
 ---
