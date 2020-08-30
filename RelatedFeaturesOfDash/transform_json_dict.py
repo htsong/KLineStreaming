@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 #
 # Refer to: https://www.cnblogs.com/xxpythonxx/p/12031446.html
 #
