@@ -50,7 +50,7 @@ app.layout = html.Div([
 def update_graph_live(n, txt):
     global x,y
     
-    if txt == None:
+    if txt == None:                                                   # TODO: 此处应改为在页面加载时做一次，现在这种做法首次调用会有错误。
         txt = json.dumps(obj = {'x':x, 'y':y})
     #print(x, y, txt)
     
